@@ -1,4 +1,4 @@
-#Quản lý khách sạn
+# Quản lý khách sạn
 1.1 Mục tiêu  dự án
   - Xây dựng được trang quản lý khách sạn hoàn chỉnh, đầy đủ các chức năng quản lý.
 1.2 Mục tiêu bản thân
