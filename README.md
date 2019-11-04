@@ -12,4 +12,4 @@
   - Chú trọng trong việc tuyển dụng và đào tạo nhân viên
   - Quảng bá và giới thiệu website phổ biến và rộng rãi bằng cách liên kết với những khu du lịch nổi tiếng, địa điểm nổi tiếng, những nhà hàng nổi tiếng.
   - Mở rộng quy mô hướng đến du khách nước ngoài.
-  - 
+ 
