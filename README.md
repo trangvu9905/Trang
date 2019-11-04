@@ -1,9 +1,11 @@
 # Quản lý khách sạn
 1.1 Mục tiêu  dự án
   - Xây dựng được trang quản lý khách sạn hoàn chỉnh, đầy đủ các chức năng quản lý.
+  
 1.2 Mục tiêu bản thân
   - Học thêm và trau dồi kiến thức về HTML, CSS, MySQL, PHP và cách quản lý Git.
   - Học cách tìm hiểu kiến thức cho phù hợp
+  
 1.3 Mục tiêu kinh doanh và phát triển dự án
   - Quản lý tốt
   - Đầu tư vào chất lượng phòng và dịch vụ
